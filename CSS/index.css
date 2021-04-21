@@ -57,19 +57,8 @@ a:hover {
 
 .imagem {
     position: absolute;
-    text-align: center;
     height: 100%;
     width: 100%;
-}
-
-.texto {
-    display: inline-block;
-    padding: 36px 40px;
-    box-shadow: 10px 10px #000;
-    background-color: #3a4240;
-    position: absolute;
-    top: 120px;
-    left: 60px;
 }
 
 .botao1 {
