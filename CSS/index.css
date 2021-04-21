@@ -72,14 +72,6 @@ a:hover {
     left: 60px;
 }
 
-h3 {
-    display: inline-flex;
-    font-family: 'Press Start 2P', cursive;
-    color: #fff;
-    text-shadow: 4px 4px 0px black;
-}
-
-
 .botao1 {
     display: inline-block;
     position: absolute;

@@ -1,0 +1,7 @@
+h2 {
+    display: inline-flex;
+    font-family: 'Press Start 2P', cursive, sans-serif;
+    font-size: 30px;
+    color: #fff;
+    text-shadow: 4px 4px 0px black;
+}
