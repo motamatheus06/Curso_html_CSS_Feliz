@@ -1,0 +1,25 @@
+.banner {
+    background-image: url(../../assets/img/arte\ figma.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 985px;
+    border-bottom: 10px solid black;
+}
+
+.banner .box {
+    position: absolute;
+    top: 200px;
+    left: 60px;
+}
+
+.banner .button {
+    margin-bottom: 20px;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 160px;
+    top: 280px;
+}
